@@ -16,7 +16,19 @@
     "scaffolding",
     "tool"
   ],
-  "author": "Aleksandar Panic, Borisa Eric",
+  "author": "Pine Coders",
+  "contributors": [
+    {
+      "name": "Aleksandar Panic",
+      "email": "arekusanda1@gmail.com",
+      "url": "https://github.com/ArekX"
+    },
+    {
+      "name": "Borisa Eric",
+      "email": "borisa123@hotmail.com",
+      "url": "https://borisaeric.io"
+    }
+  ],
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/pine-coders/shape-cli/issues"

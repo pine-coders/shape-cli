@@ -4,6 +4,7 @@
   "description": "Project initialization and scaffolding tool",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -33,5 +34,8 @@
   "bugs": {
     "url": "https://github.com/pine-coders/shape-cli/issues"
   },
-  "homepage": "https://github.com/pine-coders/shape-cli#readme"
+  "homepage": "https://github.com/pine-coders/shape-cli#readme",
+  "dependencies": {
+    "jest": "^24.0.0"
+  }
 }
